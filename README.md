@@ -24,3 +24,6 @@
 1. Make sure you are already in your virtual environment: `source venv/bin/activate`
 1. Run the app: `python manage.py runserver`
 1. View the API at http://localhost:8000 and the admin interface at http://localhost:8000/admin
+
+### Run Test Cases
+1. To run the test cases run `python manage.py ad_api test`
